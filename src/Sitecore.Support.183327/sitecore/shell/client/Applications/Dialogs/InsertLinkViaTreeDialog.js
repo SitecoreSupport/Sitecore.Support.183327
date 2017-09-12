@@ -54,7 +54,7 @@
       targetWindowID = this.Target,
       customUrlID = this.CustomUrl,
       targetControlID = this.TreeView,
-      anchor = this.AnchorText,
+      anchor = this.AnchorText, 
       selectedItemsPropertyName = "selectedNode",
       template = '<link text="<%=displayText%>" anchor="<%=anchor%>" linktype="internal" class="<%=styleClass%>" title="<%=alternateText%>" <%=target%> querystring="<%=queryString%>" id="<%=itemId%>" />',
       targetWindowValue,

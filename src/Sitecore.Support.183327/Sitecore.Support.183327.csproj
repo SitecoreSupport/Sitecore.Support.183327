@@ -55,7 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.183327.config" />
-    <Content Include="Website\sitecore\shell\client\Applications\Dialogs\InsertLinkViaTreeDialog.js" />
+    <Content Include="sitecore\shell\client\Applications\Dialogs\InsertLinkViaTreeDialog.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
